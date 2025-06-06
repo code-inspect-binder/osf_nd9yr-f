@@ -1,0 +1,232 @@
+question,value,code_n,code_alternative,Label,code_question,notes,alternative_label
+profile_education_age,1,,,15 or under,,,
+profile_education_age,2,,,16,,,
+profile_education_age,3,,,17-18,,,
+profile_education_age,4,,,19,,,
+profile_education_age,5,,,20+,,,
+profile_education_age,6,,,Still at school/Full time student,,,
+profile_education_age,7,,,Can't remember,,,
+profile_education_age,97,,,Not applicable,,,
+profile_education_age,98a,,,Skipped,,,
+profile_education_age,99a,,,Not Asked,,,
+profile_education_level,1,1,1,No formal qualifications,,No academic or professional qualifications,Level-0
+profile_education_level,2,2,2,Youth training certificate/skillseekers,,"Professional training, apprenticeships or other professional qualifications",Professional
+profile_education_level,3,3,2,Recognised trade apprenticeship completed,,"Professional training, apprenticeships or other professional qualifications",Professional
+profile_education_level,4,4,2,Clerical and commercial,,"Professional training, apprenticeships or other professional qualifications",Professional
+profile_education_level,5,5,2,City & Guilds certificate,,"Professional training, apprenticeships or other professional qualifications",Professional
+profile_education_level,6,6,2,City & Guilds certificate - advanced,,"Professional training, apprenticeships or other professional qualifications",Professional
+profile_education_level,7,7,4,ONC,,Advanced education (16-18 yr),Level-2
+profile_education_level,8,8,3,CSE grades 2-5,,Education up to 16yr,Level-1
+profile_education_level,9,9,3,"CSE grade 1, GCE O level, GCSE, School Certificate",,Education up to 16yr,Level-1
+profile_education_level,10,10,3,Scottish Ordinary/ Lower Certificate,,Education up to 16yr,Level-1
+profile_education_level,11,11,4,GCE A level or Higher Certificate,,Advanced education (16-18 yr),Level-2
+profile_education_level,12,12,4,Scottish Higher Certificate,,Advanced education (16-18 yr),Level-2
+profile_education_level,13,13,5,"Nursing qualification (e.g. SEN, SRN, SCM, RGN)",,"Undergraduate degree, University diploma or other University qualification",Level-3
+profile_education_level,14,14,5,Teaching qualification (not degree),,"Undergraduate degree, University diploma or other University qualification",Level-3
+profile_education_level,15,15,5,University diploma,,"Undergraduate degree, University diploma or other University qualification",Level-3
+profile_education_level,16,16,5,"University or CNAA first degree (e.g. BA, B.Sc, B.Ed)",,"Undergraduate degree, University diploma or other University qualification",Level-3
+profile_education_level,17,17,6,"University or CNAA higher degree (e.g. M.Sc, Ph.D)",,Postgraduate degree,Level-4
+profile_education_level,18,18,7,"Other technical, professional or higher qualification",,Other,Other
+profile_education_level,19,19,7,Don't know,,Other,Other
+profile_education_level,20,20,7,Prefer not to say,,Other,Other
+profile_education_level,98a,,,Skipped,,,
+profile_education_level,99a,,,Not Asked,,,
+profile_gender,1,,,Male,,,
+profile_gender,2,,,Female,,,
+profile_gender,8a,,,Skipped,,,
+profile_gender,9a,,,Not Asked,,,
+profile_gross_household,1,1,1,"under �5,000 per year",,,"Under £15,000"
+profile_gross_household,2,2,1,"�5,000 to �9,999 per year",,,"Under £15,000"
+profile_gross_household,3,3,1,"�10,000 to �14,999 per year",,,"Under £15,000"
+profile_gross_household,4,4,2,"�15,000 to �19,999 per year",,,"£15,000 - £24,999"
+profile_gross_household,5,5,2,"�20,000 to �24,999 per year",,,"£15,000 - £24,999"
+profile_gross_household,6,6,3,"�25,000 to �29,999 per year",,,"£25,000 - £34,999 "
+profile_gross_household,7,7,3,"�30,000 to �34,999 per year",,,"£25,000 - £34,999 "
+profile_gross_household,8,8,4,"�35,000 to �39,999 per year",,,"£35,000 - £59,999  "
+profile_gross_household,9,9,4,"�40,000 to �44,999 per year",,,"£35,000 - £59,999  "
+profile_gross_household,10,10,4,"�45,000 to �49,999 per year",,,"£35,000 - £59,999  "
+profile_gross_household,11,11,4,"�50,000 to �59,999 per year",,,"£35,000 - £59,999  "
+profile_gross_household,12,12,5,"�60,000 to �69,999 per year",,,"£60,000 or over"
+profile_gross_household,13,13,5,"�70,000 to �99,999 per year",,,"£60,000 or over"
+profile_gross_household,14,14,5,"�100,000 to �149,999 per year",,,"£60,000 or over"
+profile_gross_household,15,15,5,"�150,000 and over",,,"£60,000 or over"
+profile_gross_household,16,16,6,Don't know,,,Prefer not to answer / don’t know
+profile_gross_household,17,17,6,Prefer not to answer,,,Prefer not to answer / don’t know
+profile_gross_household,98a,18,,Skipped,,,
+profile_gross_household,99a,18,,Not Asked,,,
+profile_gross_personal,1,1,1,"under �5,000 per year",,,"Under £15,000"
+profile_gross_personal,2,2,1,"�5,000 to �9,999 per year",,,"Under £15,000"
+profile_gross_personal,3,3,1,"�10,000 to �14,999 per year",,,"Under £15,000"
+profile_gross_personal,4,4,2,"�15,000 to �19,999 per year",,,"£15,000 - £24,999"
+profile_gross_personal,5,5,2,"�20,000 to �24,999 per year",,,"£15,000 - £24,999"
+profile_gross_personal,6,6,3,"�25,000 to �29,999 per year",,,"£25,000 - £34,999 "
+profile_gross_personal,7,7,3,"�30,000 to �34,999 per year",,,"£25,000 - £34,999 "
+profile_gross_personal,8,8,4,"�35,000 to �39,999 per year",,,"£35,000 - £59,999  "
+profile_gross_personal,9,9,4,"�40,000 to �44,999 per year",,,"£35,000 - £59,999  "
+profile_gross_personal,10,10,4,"�45,000 to �49,999 per year",,,"£35,000 - £59,999  "
+profile_gross_personal,11,11,4,"�50,000 to �59,999 per year",,,"£35,000 - £59,999  "
+profile_gross_personal,12,12,5,"�60,000 to �69,999 per year",,,"£60,000 or over"
+profile_gross_personal,13,13,5,"�70,000 to �99,999 per year",,,"£60,000 or over"
+profile_gross_personal,14,14,5,"�100,000 and over",,,"£60,000 or over"
+profile_gross_personal,15,15,6,Don�t know,,,Don’t know
+profile_gross_personal,16,16,7,Prefer not to answer,,,Prefer not to answer
+profile_gross_personal,98a,17,8,Skipped,,,Skipped / not asked
+profile_gross_personal,99a,18,8,Not Asked,,,Skipped / not asked
+profile_marital_stat,1,1,,Married,,,
+profile_marital_stat,2,2,,Living as married,,,
+profile_marital_stat,3,3,,Separated (after being married),,,
+profile_marital_stat,4,4,,Divorced,,,
+profile_marital_stat,5,5,,Widowed,,,
+profile_marital_stat,6,6,,Never married,,,
+profile_marital_stat,7,7,,Civil Partnership,,,
+profile_marital_stat,8a,8,,Skipped,,,
+profile_marital_stat,9a,8,,Not Asked,,,
+profile_socialgrade_cie,1,1,,A,,,
+profile_socialgrade_cie,2,2,,B,,,
+profile_socialgrade_cie,3,3,,C1,,,
+profile_socialgrade_cie,4,4,,C2,,,
+profile_socialgrade_cie,5,5,,D,,,
+profile_socialgrade_cie,6,6,,E,,,
+profile_socialgrade_cie,7,,,Refused,,,
+profile_socialgrade_cie,8,,,Unknown,,,
+profile_socialgrade_cie,98a,,,Skipped,,,
+profile_socialgrade_cie,99a,,,Not Asked,,,
+profile_GOR,1,1,,North East,,,
+profile_GOR,2,2,,North West,,,
+profile_GOR,3,3,,Yorkshire and the Humber,,,
+profile_GOR,4,4,,East Midlands,,,
+profile_GOR,5,5,,West Midlands,,,
+profile_GOR,6,6,,East of England,,,
+profile_GOR,7,7,,London,,,
+profile_GOR,8,8,,South East,,,
+profile_GOR,9,9,,South West,,,
+profile_GOR,10,10,,Wales,,,
+profile_GOR,11,11,,Scotland,,,
+profile_GOR,12,,,Northern Ireland,,,
+profile_GOR,13,,,Non UK & Invalid,,,
+profile_GOR,98a,,,Skipped,,,
+profile_GOR,99a,,,Not Asked,,,
+voted_ge_2019,1,,,"Yes, voted",,,
+voted_ge_2019,2,,,"No, did not vote",,,
+voted_ge_2019,99,,,Don�t know,,,
+voted_ge_2019,998a,,,Skipped,,,
+voted_ge_2019,999a,,,Not Asked,,,
+pastvote_ge_2019,1,2,,Conservative,,,
+pastvote_ge_2019,2,3,,Labour,,,
+pastvote_ge_2019,3,4,,Liberal Democrat,,,
+pastvote_ge_2019,4,5,,Scottish National Party (SNP),,,
+pastvote_ge_2019,5,6,,Plaid Cymru,,,
+pastvote_ge_2019,6,7,,Brexit Party,,,
+pastvote_ge_2019,7,8,,Green,,,
+pastvote_ge_2019,98,9,,Other,,,
+pastvote_ge_2019,99,10,,Don't know,,,
+pastvote_ge_2019,998a,1,,Skipped,,,
+pastvote_ge_2019,999a,1,,Not Asked,,,
+vote2019,,1,,Conservative,,recoded,
+vote2019,,2,,Labour,,recoded,
+vote2019,,3,,Liberal Democrat,,recoded,
+vote2019,,4,,Scottish National Party (SNP),,recoded,
+vote2019,,5,,Plaid Cymru,,recoded,
+vote2019,,6,,Brexit Party,,recoded,
+vote2019,,7,,Green,,recoded,
+vote2019,,8,,Other,,recoded,
+vote2019,,9,,Don�t know,,recoded,
+vote2019,,10,,"No, did not vote",,recoded,
+vote2019,,11,,Not asked,,recoded,
+voted2017,1,,,"Yes, voted",,,
+voted2017,2,,,"No, did not vote",,,
+voted2017,99,,,Don�t know,,,
+voted2017,998a,,,Skipped,,,
+voted2017,999a,,,Not Asked,,,
+pastvote_2017,1,,,Conservative,,,
+pastvote_2017,2,,,Labour,,,
+pastvote_2017,3,,,Liberal Democrat,,,
+pastvote_2017,4,,,Scottish National Party (SNP),,,
+pastvote_2017,5,,,Plaid Cymru,,,
+pastvote_2017,6,,,UK Independence Party (UKIP),,,
+pastvote_2017,7,,,Green,,,
+pastvote_2017,8,,,N/A,,,
+pastvote_2017,9,,,N/A,,,
+pastvote_2017,98,,,Other,,,
+pastvote_2017,99,,,Don�t know,,,
+pastvote_2017,998a,,,Skipped,,,
+pastvote_2017,999a,,,Not Asked,,,
+pastvote_EURef,1,1,,I voted to Remain,,,
+pastvote_EURef,2,2,,I voted to Leave,,,
+pastvote_EURef,3,3,,I did not vote,,,
+pastvote_EURef,4,4,,Can�t remember,,,
+pastvote_EURef,8a,,,Skipped,,,
+pastvote_EURef,9a,,,Not Asked,,,
+UoE_2_1,1,1,,Very justified,att_pubs,,
+UoE_2_1,2,2,,Somewhat justified,att_pubs,,
+UoE_2_1,3,3,,Neither justified or unjustified,att_pubs,,
+UoE_2_1,4,4,,Somewhat unjustified,att_pubs,,
+UoE_2_1,5,5,,Very unjustified,att_pubs,,
+UoE_2_1,6,,,Don�t know,,,
+UoE_2_1,8a,,,Skipped,,,
+UoE_2_1,9a,,,Not Asked,,,
+UoE_2_2,1,1,,Very justified,att_schools,,
+UoE_2_2,2,2,,Somewhat justified,att_schools,,
+UoE_2_2,3,3,,Neither justified or unjustified,att_schools,,
+UoE_2_2,4,4,,Somewhat unjustified,att_schools,,
+UoE_2_2,5,5,,Very unjustified,att_schools,,
+UoE_2_2,6,,,Don�t know,,,
+UoE_2_2,8a,,,Skipped,,,
+UoE_2_2,9a,,,Not Asked,,,
+UoE_2_3,1,1,,Very justified,att_social,,
+UoE_2_3,2,2,,Somewhat justified,att_social,,
+UoE_2_3,3,3,,Neither justified or unjustified,att_social,,
+UoE_2_3,4,4,,Somewhat unjustified,att_social,,
+UoE_2_3,5,5,,Very unjustified,att_social,,
+UoE_2_3,6,,,Don�t know,,,
+UoE_2_3,8a,,,Skipped,,,
+UoE_2_3,9a,,,Not Asked,,,
+UoE_3,1,1,,None,behav_meetings,,
+UoE_3,2,2,,Less than 5,behav_meetings,,
+UoE_3,3,3,,Between 5 and 10 times,behav_meetings,,
+UoE_3,4,4,,More than 10 times,behav_meetings,,
+UoE_3,5,,,Don�t know,,,
+UoE_3,8a,,,Skipped,,,
+UoE_3,9a,,,Not Asked,,,
+UoE_4_1,1,1,,Always,mask_stores,,
+UoE_4_1,2,2,,Most of the time,mask_stores,,
+UoE_4_1,3,3,,Sometimes,mask_stores,,
+UoE_4_1,4,4,,Rarely,mask_stores,,
+UoE_4_1,5,5,,Never,mask_stores,,
+UoE_4_1,6,,,Not applicable- I do not wear a mask for medical reasons,,,
+UoE_4_1,7,,,Not applicable � I have not done this,,,
+UoE_4_1,8a,,,Skipped,,,
+UoE_4_1,9a,,,Not Asked,,,
+UoE_4_2,1,1,,Always,mask_transport,,
+UoE_4_2,2,2,,Most of the time,mask_transport,,
+UoE_4_2,3,3,,Sometimes,mask_transport,,
+UoE_4_2,4,4,,Rarely,mask_transport,,
+UoE_4_2,5,5,,Never,mask_transport,,
+UoE_4_2,6,,,Not applicable- I do not wear a mask for medical reasons,,,
+UoE_4_2,7,,,Not applicable � I have not done this,,,
+UoE_4_2,8a,,,Skipped,,,
+UoE_4_2,9a,,,Not Asked,,,
+UoE_5,1,,,"Yes, I do",,,
+UoE_5,2,,,"No, I do not",,,
+UoE_5,3,,,Don�t know,,,
+UoE_5,4,,,Prefer not to say,,,
+UoE_5,8a,,,Skipped,,,
+UoE_5,9a,,,Not Asked,,,
+UoE_6,1,2,,Very likely,vaccine,,
+UoE_6,2,3,,Fairly likely,vaccine,,
+UoE_6,3,5,,Fairly unlikely,vaccine,,
+UoE_6,4,6,,Very unlikely,vaccine,,
+UoE_6,5,4,,Don�t know,vaccine,,
+UoE_6,6,,,Not applicable � I am medically exempt,,,
+UoE_6,7,1,,Not applicable � I have already received at least one dose of the Covid-19 vaccine,vaccine,,
+UoE_6,8a,,,Skipped,,,
+UoE_6,9a,,,Not Asked,,,
+UoE_6_v2,1,1,,Very likely,vaccine2,v2,
+UoE_6_v2,2,2,,Fairly likely,vaccine2,v2,
+UoE_6_v2,3,4,,Fairly unlikely,vaccine2,v2,
+UoE_6_v2,4,5,,Very unlikely,vaccine2,v2,
+UoE_6_v2,5,3,,Don�t know,vaccine2,v2,
+UoE_6_v2,6,,,Not applicable � I am medically exempt,,v2,
+UoE_6_v2,7,,,Not applicable � I have already received at least one dose of the Covid-19 vaccine,,v2,
+UoE_6_v2,8a,,,Skipped,,v2,
+UoE_6_v2,9a,,,Not Asked,,v2,

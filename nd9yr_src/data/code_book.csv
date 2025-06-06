@@ -1,0 +1,59 @@
+Variable;Position;abbr;Label;Correct_answer;Type;Measurement_Level;Missing_Values
+ID;1;;<none>;;;Scale;
+starttime;2;;Interview Start Time;;;Ordinal;
+endtime;3;;Interview End Time;;;Ordinal;
+age;4;;Age;;;Scale;-8, -9
+profile_education_age;5;;Age finished education;;;Scale;98, 99
+profile_education_level;6;;Education qualification (highest attained);;;Scale;98, 99
+profile_gender;7;;Gender;;;Scale;8, 9
+profile_gross_household;8;;Income - gross household;;;Scale;98, 99
+profile_gross_personal;9;;Income - gross personal;;;Scale;98, 99
+profile_marital_stat;10;;Marital status;;;Scale;8, 9
+profile_socialgrade_cie;11;;Social Grade (Chief Income Earner) A / B / C1 / C2 / D / E;;;Scale;98, 99
+profile_GOR;12;;Region lived;;;Scale;98, 99
+voted_ge_2019;13;;Talking to people about the General Election in December 2019, we have found that a lot of people didn’t manage to vote. How about you – did you manage to vote in the General Election?;;;Scale;998, 999
+pastvote_ge_2019;14;;Which party did you vote for at the General Election in December 2019?;;;Scale;998, 999
+voted2017;15;;Talking to people about the General Election in June 2017, we have found that a lot of people didn’t manage to vote. How about you – did you manage to vote in the General Election?;;;Scale;998, 999
+pastvote_2017;16;;Which party did you vote for?;;;Scale;998, 999
+pastvote_EURef;17;;Past vote 2016 EU referendum;;;Scale;8, 9
+W8;18;;<none>;;;Scale;
+lprofile_education_level;19;;Education qualification (highest attained);;;Scale;98, 99
+UoE_1;20;;Below are a series of statements about the coronavirus (Covid-19) and about science. Please read each statement carefully and indicate to what extent you believe them to be true or false. **Please do not look up the answers or consult any outside informat;;science;Ordinal;8, 9
+UoE_1_1;21;antibiotics;Antibiotics can kill viruses as well as bacteria;F;science;Scale;8, 9
+UoE_1_2;22;radioactivity;All radioactivity is man-made;F;science;Scale;8, 9
+UoE_1_3;23;lasers;Lasers work by focusing sound waves;F;science;Scale;8, 9
+UoE_1_4;24;brain;Humans only use 10% of their brain;F;science;Scale;8, 9
+UoE_1_5;25;sun;The sun makes up approximately 85% of matter in our solar system;F;science;Scale;8, 9
+UoE_1_6;26;dinosaurs;The earliest humans lived at the same time as the dinosaurs;F;science;Scale;8, 9
+UoE_1_7;27;evolution;Human beings, as we know them today, developed from an earlier species of animal;T;science;Scale;8, 9
+UoE_1_8;28;father’s genes;The father's genes determine whether the baby is a boy or a girl;T;science;Scale;8, 9
+UoE_1_9;29;centre of Earth;The centre of the Earth is very hot;T;science;Scale;8, 9
+UoE_1_10;30;continent drift;The continents on which we live have been moving their location for millions of years, and will continue to move in the future;T;science;Scale;8, 9
+UoE_1_11;31;water mass;One cubic centimetre of water has a mass of 1 gram;T;science;Scale;8, 9
+UoE_1_12;32;electrons;Electrons are smaller than atoms;T;science;Scale;8, 9
+UoE_1_13;33;eggs;There are some mammals that reproduce by laying eggs;T;science;Scale;8, 9
+UoE_1_14;34;cows;Humans have about 60% of their genetic code (DNA) in common with cows;F;science;Scale;8, 9
+UoE_1_15;35;asymptomatic preval.;More than 70% of people infected with Covid-19 display no symptoms at all;F;covid;Scale;8, 9
+UoE_1_16;36;mask intoxication;Wearing a face mask for a long time can cause intoxication from re-breathing exhaled breath;F;covid;Scale;8, 9
+UoE_1_17;37;bio-weapon;Covid-19 is a bio-weapon intentionally spread by the Chinese state to weaken Western economies;F;covid;Scale;8, 9
+UoE_1_18;38;mRNA;Some Covid-19 vaccines use a new technology that could alter people’s genetic code (their DNA);F;covid;Scale;8, 9
+UoE_1_19;39;infection from vaccine;There is a small chance of catching Covid-19 from the vaccine;F;covid;Scale;8, 9
+UoE_1_20;40;fertility;Some Covid-19 vaccines contain small particles that can affect fertility;F;covid;Scale;8, 9
+UoE_1_21;41;asymptomatic spread;Covid-19 can be spread by those who display no symptoms at all;T;covid;Scale;8, 9
+UoE_1_22;42;repeated infections;You can catch Covid-19 more than once;T;covid;Scale;8, 9
+UoE_1_23;43;severity;Covid-19 is over 10 times deadlier than the seasonal flu;T;covid;Scale;8, 9
+UoE_1_24;44;test reliability;The vast majority of people who test positively for Covid-19 with a  swab test truly have the disease;T;covid;Scale;8, 9
+UoE_1_25;45;houseflies;Covid-19 can be transmitted by houseflies and/or mosquito bites;F;covid;Scale;8, 9
+UoE_1_26;46;UK excess deaths in 2020;In 2020 the total number of deaths in the UK was much higher than average (over 75,000) compared to the 5 years before;T;covid;Scale;8, 9
+UoE_1_27;47;infection after vaccine;You can still get infected with Covid-19 after getting the second dose of the vaccine;T;covid;Scale;8, 9
+UoE_1_28;48;incubation period;The average period between infection with Covid-19 and the onset of symptoms is 5 days;T;covid;Scale;8, 9
+UoE_2;49;;Considering all health, economic, and social factors, how justified or unjustified do you think the following measures implemented by the UK Government were during the most recent lockdown (starting 6th January 2021)?;;;Ordinal;8, 9
+UoE_2_1;50;;Closing of bars, pubs and restaurants;;;Scale;8, 9
+UoE_2_2;51;;Closing of schools;;;Scale;8, 9
+UoE_2_3;52;;Restrictions on meeting with others outside your household or support bubble;;;Scale;8, 9
+UoE_3;53;;**Since the start of the most recent national lockdown** (starting 6th January 2021), how many different times, if at all, have you met to socialise with family, friends, or others outside of your household or support bubble?;;;Scale;8, 9
+UoE_4;54;;**Since the start of the most recent national lockdown **(starting 6th January 2021), how often, if at all, have you worn a mask to cover your mouth and nose when you…;;;Ordinal;8, 9
+UoE_4_1;55;;…Visited a supermarket or grocery store?;;;Scale;8, 9
+UoE_4_2;56;;…Used a public transport?;;;Scale;8, 9
+UoE_5;57;;Do you personally know anybody, including yourself, whose health has been badly affected from having Covid-19?;;;Scale;8, 9
+UoE_6;58;;If a vaccine against Covid-19 was available to you, how likely would you be to get vaccinated?;;;Scale;8, 9
